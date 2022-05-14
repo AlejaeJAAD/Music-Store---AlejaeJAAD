@@ -1,0 +1,1 @@
+npm i sqlite3 -D && rm -rf node_modules && npm i && npm rebuild
